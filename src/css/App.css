@@ -1,0 +1,177 @@
+.header, .footer {
+  display: inline;
+  text-align: center;
+  margin: 20px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.text-center {
+  display: inline;
+  text-align: center;
+}
+
+.size-lg {
+  font-size: large !important;
+  font-weight: bold !important;
+}
+
+.bg-flag-state-0 {
+  background-image: url("../components/flag-france-0.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-1 {
+  background-image: url("../components/flag-france-1.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-2 {
+  background-image: url("../components/flag-france-2.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-3 {
+  background-image: url("../components/flag-france-3.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-4 {
+  background-image: url("../components/flag-france-4.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-5 {
+  background-image: url("../components/flag-france-5.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-6 {
+  background-image: url("../components/flag-france-6.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-7 {
+  background-image: url("../components/flag-france-7.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-8 {
+  background-image: url("../components/flag-france-8.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-9 {
+  background-image: url("../components/flag-france-9.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.justice-img {
+  width: 150px;
+}
+
+.img-card {
+  height: 200px;
+}
+
+.m-t-15 {
+  margin-top: 150px;
+}
+
+.m-t-10 {
+  margin-top: 10px;
+}
+
+.m-v-2 {
+  margin: 20px 0;
+}
+
+.m-v-container {
+  margin: 20px 0 40px 0;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-half {
+  width: 50%;
+}
+
+.h-30 {
+  height: 30px;
+}

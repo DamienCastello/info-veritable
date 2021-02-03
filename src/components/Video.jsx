@@ -4,7 +4,7 @@ import '../css/video.css'
 
 const Video = ({ url }) => {
     return (
-        <div className="player-wrapper">
+        <div className="player-wrapper d-flex align-center">
             <ReactPlayer
             className="react-player"
             url={url}

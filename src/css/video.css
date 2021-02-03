@@ -1,10 +1,78 @@
-.player-wrapper {
+
+@media screen and (min-width: 200px) and (max-width: 640px){
+  .player-wrapper {
     position: relative;
-    padding-top: 56.25% /* Player ratio: 100 / (1280 / 720) */
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 350px;
   }
-  
+}
+@media screen and (min-width: 640px){
+  .player-wrapper {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 330px;
+  }
+}
+@media screen and (min-width: 1024px){
+  .player-wrapper {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 350px;
+  }
+}
+@media screen and (min-width: 1280px){
+  .player-wrapper {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 400px;
+  }
+}
+
+@media screen and (min-width: 200px) and (max-width: 640px){
+  .player-wrapper-home {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 350px;
+  }
+}
+@media screen and (min-width: 640px){
+  .player-wrapper-home {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 330px;
+  }
+}
+@media screen and (min-width: 1024px){
+  .player-wrapper-home {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 150px;
+  }
+
   .react-player {
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    height: 500px !important;
   }
+}
+@media screen and (min-width: 1280px){
+  .player-wrapper-home {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+    height: 100px;
+  }
+
+  .react-player {
+    height: 600px !important;
+  }
+}
+
+.react-player {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.bg-card {
+  background-color: #fff;
+  background-image: url("../components/asfalt-dark.png");
+}
+
