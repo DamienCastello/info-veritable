@@ -136,6 +136,61 @@
   background-size: cover;
 }
 
+.bg-flag-state-10 {
+  background-image: url("../components/flag-france-10.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-11 {
+  background-image: url("../components/flag-france-11.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-12 {
+  background-image: url("../components/flag-france-12.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-13 {
+  background-image: url("../components/flag-france-13.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-flag-state-14 {
+  background-image: url("../components/flag-france-14.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .justice-img {
   width: 150px;
 }
@@ -174,4 +229,8 @@
 
 .h-30 {
   height: 30px;
+}
+
+.h-100 {
+  min-height: 100px !important;
 }
